@@ -1,0 +1,10 @@
+# Basic step-test program
+throttle 0 # Set throttle to 0%
+
+ramp 50 2 sec # Ramp to 50% over 2 seconds
+delay 1500 ms # Wait for 50 milliseconds
+
+ramp 100 2 sec # ramp to 100% over 2 seconds
+delay 1500 ms # Wait for 500 milliseconds
+
+ramp 0 4 sec # Ramp down to 0% over 4 seconds

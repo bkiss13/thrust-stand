@@ -1,0 +1,13 @@
+# This is the program used to collect data for
+# the "A" sample set included with the code
+# for this project.
+
+throttle 0
+delay 1 sec
+throttle 33
+delay 3 sec
+throttle 66
+delay 3 sec
+throttle 100
+delay 3 sec
+throttle 0
